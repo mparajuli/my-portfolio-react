@@ -10,7 +10,8 @@ const Header = () => {
       <div className="container header_container">
       <h5>Hello I'm</h5>
       <h1>Mausam Parajuli</h1>
-      <h5 className="text-light">Graduate Student</h5>
+      {/* <h5 className="text-light">Graduate Student</h5> */}
+      <p className="text-light">A highly motivated and experienced graduate student looking for a Computer Science internship, parcticularly in software engineering, to apply my knowledge and skills in software development and programming to create high quality applications, and continue to learn and grow as a software engineer. I am eager to solve real-world problems, collaborate with a team, and contribute to meaningful projects that make a positive impact in the society.</p>
       <Resume />
       <HeaderSocials />
 
