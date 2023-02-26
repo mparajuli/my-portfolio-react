@@ -29,7 +29,7 @@ const Experience = () => {
             <article className="experience_details">
               <BsPatchCheckFill className="experience_details-icon" />
               <div>
-                <h4>CSS</h4>
+                <h4>JavaScript</h4>
                 <small className="text-light">Intermediate</small>
               </div>
             </article>
@@ -106,6 +106,105 @@ const Experience = () => {
           </div>
         </div>
         {/* END OF BACKEND */}
+
+        <div className="experience_technical_skills">
+          <h3>Technical Skills</h3>
+          <div className="experience_content">
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Java</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Python</h4>
+                <small className="text-light">Intermediate</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>OOP</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Linux</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Docker</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Podman</h4>
+                <small className="text-light">Experienced</small>
+              </div>
+            </article>
+          </div>
+        </div>
+        {/* END OF TECHNICAL SKILLS */}
+
+        <div className="experience_soft_skills">
+          <h3>Soft Skills</h3>
+          <div className="experience_content">
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Problem-solving</h4>
+                {/* <small className="text-light">Experienced</small> */}
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Time management</h4>
+                {/* <small className="text-light">Intermediate</small> */}
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Adaptability</h4>
+                {/* <small className="text-light">Experienced</small> */}
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Communication</h4>
+                {/* <small className="text-light">Experienced</small> */}
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Collaboration</h4>
+                {/* <small className="text-light">Experienced</small> */}
+              </div>
+            </article>
+            <article className="experience_details">
+              <BsPatchCheckFill className="experience_details-icon" />
+              <div>
+                <h4>Creativity</h4>
+                {/* <small className="text-light">Experienced</small> */}
+              </div>
+            </article>
+          </div>
+        </div>
+        {/* END OF TECHNICAL SKILLS */}
+
       </div>
     </section>
   );

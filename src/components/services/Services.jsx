@@ -17,23 +17,15 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>User-centered design: Priotize the needs and preferences of the end-users in the design process.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Interaction design: Ensure a seamless and intuitive expereince for users.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Responsive design: Work well across different devices and screen sizes.</p>
             </li>
           </ul>
         </article>
@@ -46,56 +38,36 @@ const Services = () => {
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Custom website development: Build website from scratch, tailored to the specific needs and goals.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Responsive design: Work well across different devices and screen sizes.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Website maintenance: Provide regular maintenance and support services.</p>
             </li>
           </ul>
         </article>
         {/* END OF WEB DEVELOPMENT */}
         <article className="service">
           <div className="service_head">
-            <h3>Content Creation</h3>
+            <h3>Full-stack Development</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Front-end development: Create the user interface and user expereince for websites and applications.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Back-end development: Build the server-side of web applications.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
-            </li>
-            <li>
-              <BiCheck className="service_list-icon" />
-              <p>Loren, ipsum dolor sit amet consectur elit.</p>
+              <p>Database development: Design and develop databases.</p>
             </li>
           </ul>
         </article>
