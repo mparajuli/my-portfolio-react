@@ -1,6 +1,7 @@
 import React from "react";
 import "./services.css";
-import { BiCheck } from "react-icons/bi";
+// import { BiCheck } from "react-icons/bi";
+import { BsPatchCheckFill } from "react-icons/bs";
 
 const Services = () => {
   return (
@@ -16,15 +17,15 @@ const Services = () => {
 
           <ul className="service_list">
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>User-centered design: Priotize the needs and preferences of the end-users in the design process.</p>
             </li>
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Interaction design: Ensure a seamless and intuitive expereince for users.</p>
             </li>
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Responsive design: Work well across different devices and screen sizes.</p>
             </li>
           </ul>
@@ -37,15 +38,15 @@ const Services = () => {
 
           <ul className="service_list">
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Custom website development: Build website from scratch, tailored to the specific needs and goals.</p>
             </li>
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Responsive design: Work well across different devices and screen sizes.</p>
             </li>
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Website maintenance: Provide regular maintenance and support services.</p>
             </li>
           </ul>
@@ -58,15 +59,15 @@ const Services = () => {
 
           <ul className="service_list">
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Front-end development: Create the user interface and user expereince for websites and applications.</p>
             </li>
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Back-end development: Build the server-side of web applications.</p>
             </li>
             <li>
-              <BiCheck className="service_list-icon" />
+              <BsPatchCheckFill className="service_list-icon" />
               <p>Database development: Design and develop databases.</p>
             </li>
           </ul>
