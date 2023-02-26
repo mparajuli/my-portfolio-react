@@ -36,7 +36,7 @@ const data = [
   },
   {
     avatar: AVTR4,
-    name: "Arup Kumar Ghosh",
+    name: "Dr. Arup Kumar Ghosh",
     review:
       "Mausam's friendly personality and willingness to take initiative have made him an asset to the Computer Science department, and his career-driven attitude is an inspiration to his peers. Mausam's involvement in organizations and tech-focused clubs demonstrates his commitment to the computer science field and his desire to give back to the community.",
   },
