@@ -1,6 +1,6 @@
 import React from 'react';
-// import resume from '/Users/mparajuli/Desktop/my-portfolio/src/assets/resume.pdf'; 
-import resume from '../../assets/resume.pdf';
+// import resume from '/Users/mparajuli/Desktop/my-portfolio/src/assets/resume.docx'; 
+import resume from '../../assets/resume.docx';
 
 const Resume = () => {
   return (

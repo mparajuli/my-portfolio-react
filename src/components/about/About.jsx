@@ -29,7 +29,15 @@ const About = () => {
             <article className="about_card">
               <GiArchiveResearch className="about_icon" />
               <h5>Research</h5>
-              <small>1+ Published Work</small>
+              <small>
+                <a
+                  href="https://aircconline.com/abstract/ijcnc/v15n2/15223cnc08.html"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Read Me
+                </a>
+              </small>
             </article>
 
             <article className="about_card">
@@ -47,8 +55,10 @@ const About = () => {
             platforms. I like to face challenges and take them as a learning
             opportunity. I am currently looking for Computer Science internship
             opportunities to apply and enhance my technical and interpersonal
-            skills to a real-world client relationship. I believe in building better software for a better tomorrow.
-            <br/>"Code like a wizard, debug like a ninja, and never stop learning!"
+            skills to a real-world client relationship. I believe in building
+            better software for a better tomorrow.
+            <br />
+            "Code like a wizard, debug like a ninja, and never stop learning!"
           </p>
 
           <a href="#contact" className="btn btn-primary">
