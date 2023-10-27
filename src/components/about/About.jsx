@@ -35,9 +35,17 @@ const About = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Read Me
+                  Paper One
+                </a><br></br>
+                <a
+                  href="https://dl.acm.org/doi/10.1145/3616480.3616485"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Paper Two
                 </a>
               </small>
+              
             </article>
 
             <article className="about_card">
