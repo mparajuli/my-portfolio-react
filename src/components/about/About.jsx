@@ -36,7 +36,8 @@ const About = () => {
                   rel="noopener noreferrer"
                 >
                   Paper One
-                </a><br></br>
+                </a>
+                <br></br>
                 <a
                   href="https://dl.acm.org/doi/10.1145/3616480.3616485"
                   target="_blank"
@@ -45,7 +46,6 @@ const About = () => {
                   Paper Two
                 </a>
               </small>
-              
             </article>
 
             <article className="about_card">
@@ -55,18 +55,25 @@ const About = () => {
             </article>
           </div>
           <p>
-            I am Computer Science graduate student at Jacksonville State
-            University. I am always eager to learn something new and apply them
-            in a real-life situation. I think this is very important in the
-            Computer Science field because things are evolving daily, and we
-            have to keep ourselves updated with the new technology and
-            platforms. I like to face challenges and take them as a learning
-            opportunity. I am currently looking for Computer Science internship
-            opportunities to apply and enhance my technical and interpersonal
-            skills to a real-world client relationship. I believe in building
-            better software for a better tomorrow.
+            I am a recent Computer Science graduate from Jacksonville State
+            University. Eager to continually expand my knowledge and apply it in
+            real-world scenarios, I recognize the significance of staying
+            abreast of evolving technologies in the dynamic field of Computer
+            Science. I thrive on challenges, viewing them as invaluable learning
+            opportunities.
+            <br />
+            <br />
+            With a strong foundation in Computer Science, I am now seeking
+            opportunities to contribute my skills and gain practical experience
+            as a software engineer. My goal is to enhance both my technical
+            prowess and interpersonal skills within real-world client
+            relationships. I am passionate about contributing to the development
+            of better software for a brighter tomorrow.
+            <br />
             <br />
             "Code like a wizard, debug like a ninja, and never stop learning!"
+            remains my guiding principle as I embark on the next phase of my
+            professional journey.
           </p>
 
           <a href="#contact" className="btn btn-primary">
