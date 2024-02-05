@@ -23,7 +23,7 @@ const About = () => {
             <article className="about_card">
               <FaAward className="about_icon" />
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>Junior Level</small>
             </article>
 
             <article className="about_card">
@@ -35,7 +35,7 @@ const About = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Paper One
+                  <small className="about_text">Paper One</small>
                 </a>
                 <br></br>
                 <a
@@ -43,7 +43,7 @@ const About = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Paper Two
+                  <small className="about_text">Paper Two</small>
                 </a>
               </small>
             </article>
@@ -51,7 +51,13 @@ const About = () => {
             <article className="about_card">
               <VscFolderLibrary className="about_icon" />
               <h5>Projects</h5>
-              <small>20+ Completed</small>
+              <a
+                href="https://github.com/mparajuli?tab=repositories"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                <small className="about_text">View on GitHub</small>
+              </a>
             </article>
           </div>
           <p>
