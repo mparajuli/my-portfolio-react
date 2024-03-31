@@ -10,14 +10,14 @@ const Header = () => {
       <div className="container header_container">
         <h5>Hello I'm</h5>
         <h1>Mausam Parajuli</h1>
-        {/* <h5 className="text-light">Graduate Student</h5> */}
         <p className="text-light">
-          A dedicated and aspiring entry-level software engineer seeking an
-          opportunity in the field of computer science to leverage my education
-          and passion for software development. I am eager to apply my skills
-          and knowledge to create innovative software solutions, collaborate
-          effectively with a team, and contribute to projects that address
-          real-world challenges, ultimately making a positive impact on society.
+          A dedicated and aspiring junior software engineer, I am always seeking
+          opportunities to leverage my strong educational foundation and
+          technical expertise in Software Development. I am eager to apply my
+          skills and knowledge to create innovative software solutions,
+          collaborate effectively with a team, and contribute to projects that
+          address real-world challenges, ultimately making a positive impact on
+          society.
         </p>
         <Resume />
         <HeaderSocials />

@@ -12,67 +12,93 @@ const Services = () => {
       <div className="container services_container">
         <article className="service">
           <div className="service_head">
-            <h3>UI/UX Design</h3>
+            <h3>Full Stack Development</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>User-centered design: Priotize the needs and preferences of the end-users in the design process.</p>
+              <p>
+                Responsive and scalable web applications from conception to
+                deployment.
+              </p>
             </li>
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Interaction design: Ensure a seamless and intuitive expereince for users.</p>
+              <p>
+                Robust backend architectures and optimized database designs.
+              </p>
             </li>
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Responsive design: Work well across different devices and screen sizes.</p>
+              <p>
+                Utilize agile methodologies to streamline development processes
+                and deliver iterative improvements.
+              </p>
             </li>
           </ul>
         </article>
-        {/* END OF UI/UX */}
+        {/* END OF Full Stack Development */}
         <article className="service">
           <div className="service_head">
-            <h3>Web Development</h3>
+            <h3>Quality Assurance</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Custom website development: Build website from scratch, tailored to the specific needs and goals.</p>
+              <p>
+                Develop test plans and test cases to validate functionality,
+                performance, and security.
+              </p>
             </li>
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Responsive design: Work well across different devices and screen sizes.</p>
+              <p>
+                Execute manual and automated tests across web and mobile
+                applications.
+              </p>
             </li>
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Website maintenance: Provide regular maintenance and support services.</p>
+              <p>
+                Utilize industry-standard testing tools such as Selenium, JUnit,
+                and Postman to automate scripts and improve efficiency.
+              </p>
             </li>
           </ul>
         </article>
-        {/* END OF WEB DEVELOPMENT */}
+        {/* END OF QA and Testing */}
         <article className="service">
           <div className="service_head">
-            <h3>Full-stack Development</h3>
+            <h3>Research and Development</h3>
           </div>
 
           <ul className="service_list">
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Front-end development: Create the user interface and user expereince for websites and applications.</p>
+              <p>
+                Conduct in-depth research on emerging technologies and industry
+                trends.
+              </p>
             </li>
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Back-end development: Build the server-side of web applications.</p>
+              <p>
+                Design and execute experiments to evaluate performance,
+                scalability, and reliability.
+              </p>
             </li>
             <li>
               <BsPatchCheckFill className="service_list-icon" />
-              <p>Database development: Design and develop databases.</p>
+              <p>
+                Provide strategic guidance and technical expertise to inform
+                product roadmaps and long-term technology investments.
+              </p>
             </li>
           </ul>
         </article>
-        {/* END OF Content Creation */}
+        {/* END OF Research and Development */}
       </div>
     </section>
   );
